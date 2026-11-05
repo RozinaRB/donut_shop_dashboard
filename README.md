@@ -1,6 +1,6 @@
 # 🍩 Donut Shop Analytics Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<your-app-name>.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://donutshopdashboard.streamlit.app/)
 
 > 🚀 **Live Dashboard:** [https://donutshopdashboard.streamlit.app/](https://donutshopdashboard.streamlit.app/) *(Replace with your Streamlit Community Cloud URL)*
 
