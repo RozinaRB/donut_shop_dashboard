@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<your-app-name>.streamlit.app)
 
-> 🚀 **Live Dashboard:** [https://<your-app-name>.streamlit.app](https://<your-app-name>.streamlit.app) *(Replace with your Streamlit Community Cloud URL)*
+> 🚀 **Live Dashboard:** [https://donutshopdashboard.streamlit.app/](https://donutshopdashboard.streamlit.app/) *(Replace with your Streamlit Community Cloud URL)*
 
 A high-performance operational intelligence dashboard for donut retail businesses, delivering real-time analytics across **Sales & Revenue**, **Inventory & Waste**, and **Human Resources**.
 
