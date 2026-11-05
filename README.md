@@ -31,7 +31,7 @@ Traditional Python dashboard stacks rely on Pandas and SQLAlchemy, which often b
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/RozinaRB/donut_shop_dashboard.git
 cd donut_shop/dashboard
 ```
 
