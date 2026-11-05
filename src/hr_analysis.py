@@ -1,8 +1,6 @@
 from src.data_loader import load_data_from_db
-from pathlib import Path
 import streamlit as st
 import polars as pl
-import sys
 
 
 @st.cache_data()
