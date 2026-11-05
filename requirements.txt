@@ -1,0 +1,6 @@
+# Dashboard Core Dependencies
+streamlit>=1.30.0
+polars>=1.0.0
+plotly>=5.18.0
+connectorx>=0.3.2
+pyarrow>=14.0.0
